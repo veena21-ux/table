@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button>
+    <span>
+    <p>
+        <pre>
+To do           ...
+        </pre>
+        <p style="background-color: white;"> 
+        Learn html
+        <br>
+        </p>
+        <p style="background-color: white;">
+        Learn css
+        <br>
+        </p>
+        +Add another card
+    </p>
+    </span>
+    </button>
+    <button>
+        <span>
+        <p>
+            <pre>
+Doing           ...
+            </pre>
+            <p style="background-color: white;"> 
+             Prepare resume
+            </p>
+            <br>
+            +Add another card
+           
+        </span>
+        </button>
+        <button>
+                <pre>
+Done            ...
+                </pre>
+                +Add another card
+            </button>
+            <button>+Add another list</button>
+</body>
+</html>
